@@ -1,4 +1,4 @@
-package at.lemvi.codingpractice.PinValidator;
+package at.lemvi.codingpractice.exercises.codewars.PinValidator;
 
 import org.junit.jupiter.api.Test;
 

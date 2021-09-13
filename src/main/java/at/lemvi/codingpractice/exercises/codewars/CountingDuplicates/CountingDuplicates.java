@@ -1,4 +1,4 @@
-package at.lemvi.codingpractice.CountingDuplicates;
+package at.lemvi.codingpractice.exercises.codewars.CountingDuplicates;
 
 import java.util.Map;
 import java.util.stream.Collectors;

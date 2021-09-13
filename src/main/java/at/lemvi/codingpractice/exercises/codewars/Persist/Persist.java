@@ -1,7 +1,4 @@
-package at.lemvi.codingpractice.Persist;
-
-import java.util.Optional;
-import java.util.OptionalInt;
+package at.lemvi.codingpractice.exercises.codewars.Persist;
 
 public class Persist {
     public static int persistence(long n) {

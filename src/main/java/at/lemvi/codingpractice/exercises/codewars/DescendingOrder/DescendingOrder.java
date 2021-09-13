@@ -1,4 +1,4 @@
-package at.lemvi.codingpractice.DescendingOrder;
+package at.lemvi.codingpractice.exercises.codewars.DescendingOrder;
 
 import java.util.ArrayList;
 import java.util.List;

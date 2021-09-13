@@ -1,4 +1,4 @@
-package at.lemvi.codingpractice.PinValidator;
+package at.lemvi.codingpractice.exercises.codewars.PinValidator;
 
 public class PinValidator {
     public static boolean validatePin(String pin) {

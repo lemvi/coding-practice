@@ -1,4 +1,4 @@
-package at.lemvi.codingpractice.Persist;
+package at.lemvi.codingpractice.exercises.codewars.Persist;
 
 import org.junit.jupiter.api.Test;
 

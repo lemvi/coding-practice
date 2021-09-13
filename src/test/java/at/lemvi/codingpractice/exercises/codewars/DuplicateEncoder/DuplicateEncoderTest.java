@@ -1,4 +1,4 @@
-package at.lemvi.codingpractice.DuplicateEncoder;
+package at.lemvi.codingpractice.exercises.codewars.DuplicateEncoder;
 
 import org.junit.jupiter.api.Test;
 

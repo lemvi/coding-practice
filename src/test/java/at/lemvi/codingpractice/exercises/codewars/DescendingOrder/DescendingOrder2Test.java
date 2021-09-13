@@ -1,4 +1,4 @@
-package at.lemvi.codingpractice.DescendingOrder;
+package at.lemvi.codingpractice.exercises.codewars.DescendingOrder;
 
 import org.junit.jupiter.api.Test;
 

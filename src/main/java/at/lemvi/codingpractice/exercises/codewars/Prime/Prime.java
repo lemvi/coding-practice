@@ -1,4 +1,4 @@
-package at.lemvi.codingpractice.Prime;
+package at.lemvi.codingpractice.exercises.codewars.Prime;
 
 import java.math.BigInteger;
 
