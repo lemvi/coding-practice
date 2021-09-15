@@ -18,9 +18,9 @@ public class Solution {
 
         System.out.println(
                 bar + lineBreak +
-                spaceDefiner(string1) + transformToThreeDigits(int1) + lineBreak +
-                spaceDefiner(string2) + transformToThreeDigits(int2) + lineBreak +
-                spaceDefiner(string3) + transformToThreeDigits(int3) + lineBreak +
+                defineSpaceForString(string1) + transformToThreeDigits(int1) + lineBreak +
+                defineSpaceForString(string2) + transformToThreeDigits(int2) + lineBreak +
+                defineSpaceForString(string3) + transformToThreeDigits(int3) + lineBreak +
                 bar
         );
     }
@@ -35,7 +35,7 @@ public class Solution {
         return String.valueOf(i);
     }
 
-    private static String spaceDefiner(String string) {
+    private static String defineSpaceForString(String string) {
         int stringLength = string.length();
         int numberOfSpaces = 15 - stringLength;
         for (int i = 0; i < numberOfSpaces; i++) {
