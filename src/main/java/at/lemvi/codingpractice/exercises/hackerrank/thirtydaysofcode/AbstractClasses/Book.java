@@ -1,4 +1,4 @@
-package at.lemvi.codingpractice.exercises.hackerrank.AbstractClasses;
+package at.lemvi.codingpractice.exercises.hackerrank.thirtydaysofcode.AbstractClasses;
 
 public abstract class Book {
     String title;

@@ -1,4 +1,4 @@
-package at.lemvi.codingpractice.exercises.hackerrank.Arrays;
+package at.lemvi.codingpractice.exercises.hackerrank.thirtydaysofcode.Arrays;
 
 import java.io.BufferedReader;
 import java.io.IOException;

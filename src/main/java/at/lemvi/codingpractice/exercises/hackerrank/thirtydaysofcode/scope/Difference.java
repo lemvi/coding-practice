@@ -1,4 +1,4 @@
-package at.lemvi.codingpractice.exercises.hackerrank.scope;
+package at.lemvi.codingpractice.exercises.hackerrank.thirtydaysofcode.scope;
 
 import java.util.Arrays;
 import java.util.Collections;

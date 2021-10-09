@@ -1,4 +1,4 @@
-package at.lemvi.codingpractice.exercises.hackerrank.BinaryNumbers;
+package at.lemvi.codingpractice.exercises.hackerrank.thirtydaysofcode.BinaryNumbers;
 
 import java.io.BufferedReader;
 import java.io.IOException;
